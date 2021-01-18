@@ -1,0 +1,2 @@
+# ojayek.github.io
+ weblog
