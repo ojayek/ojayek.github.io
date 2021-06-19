@@ -1,2 +1,0 @@
-# ojayek.github.io
- weblog
